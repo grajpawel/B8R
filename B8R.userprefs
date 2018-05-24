@@ -1,0 +1,29 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\FallingScrpits\FallingShip.cs">
+    <Files>
+      <File FileName="Assets\Front\ButtonInfo.cs" Line="1" Column="1" />
+      <File FileName="Assets\Front\ButtonSound.cs" Line="1" Column="1" />
+      <File FileName="Assets\FallingScrpits\FallingCoin.cs" Line="1" Column="1" />
+      <File FileName="Assets\Game\EasyMove.cs" Line="1" Column="1" />
+      <File FileName="Assets\Front\BG_front.cs" Line="1" Column="1" />
+      <File FileName="Assets\Game\Buttons\ButtonMenu.cs" Line="1" Column="1" />
+      <File FileName="Assets\StartButtons\ExitInfoButton.cs" Line="1" Column="1" />
+      <File FileName="Assets\Game\FadingPlayer.cs" Line="1" Column="1" />
+      <File FileName="Assets\FallingScrpits\FallingB8.cs" Line="1" Column="1" />
+      <File FileName="Assets\Shop\FrameScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Shop\TextColorShop.cs" Line="1" Column="1" />
+      <File FileName="Assets\Shop\ShopSwipe.cs" Line="1" Column="1" />
+      <File FileName="Assets\StartButtons\ButtonstartStartMove.cs" Line="1" Column="1" />
+      <File FileName="Assets\FallingScrpits\FallingFish.cs" Line="1" Column="1" />
+      <File FileName="Assets\Game\GameController.cs" Line="1" Column="1" />
+      <File FileName="Assets\BannerAd.cs" Line="1" Column="1" />
+      <File FileName="..\Rainbow\Assets\Game\ss.cs" Line="1" Column="1" />
+      <File FileName="Assets\FallingScrpits\FallingShip.cs" Line="27" Column="71" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
